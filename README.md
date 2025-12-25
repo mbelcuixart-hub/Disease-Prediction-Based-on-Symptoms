@@ -15,12 +15,10 @@ The goal of this project is to build a simple model that can help predict possib
 
 ## Project Structure
 - `notebooks/`: Colab notebooks
-- `data/` (optional): datasets used
-- `scripts/` (optional): additional Python scripts
 - `README.md`: project documentation
 
 ## Required Libraries
 - pandas
 - scikit-learn
 - numpy
-- matplotlib / seaborn (optional, for visualizations)
+- matplotlib / seaborn 
